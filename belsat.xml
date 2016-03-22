@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tv SYSTEM "http://www.teleguide.info/xmltv.dtd">
+<tv>
+    <channel id="eu.belsat">
+        <display-name lang="be">Белсат</display-name>
+    </channel>
+    <programme channel="eu.belsat" stop="20140421072500 +0300" start="20140421070000 +0300">
+        <title lang="be">ПраСвет (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421080000 +0300" start="20140421072500 +0300">
+        <title lang="be">Зона «Свабоды» (аналітычная праграма). Погляд на падзеі тыдня вачыма журналістаў радыё
+            «Свабода».
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421083500 +0300" start="20140421080500 +0300">
+        <title lang="be">«Людскія справы» (аўтарская праграма Алеся Залеўскага)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421085500 +0300" start="20140421083500 +0300">
+        <title lang="be">Фітнес-шмітнес</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421092500 +0300" start="20140421085500 +0300">
+        <title lang="be">Два на два (тэледыскусія): Анатоль Івашчанка і Гэнік Лойка</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421101500 +0300" start="20140421092500 +0300">
+        <title lang="be">Дакументальная гадзіна: «Невядомае жыццё Ісуса» (Ukryte życie Jezusa), дак. фільм, рэж. Рафал
+            Тыхы (Rafał Tichy), 2009 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421105000 +0300" start="20140421101500 +0300">
+        <title lang="be">Эксперт (сатырычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421111500 +0300" start="20140421105000 +0300">
+        <title lang="be">Кулінарныя падарожжы Робэрта Макловіча</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421120500 +0300" start="20140421111500 +0300">
+        <title lang="be">«Mad Men. Утрапёныя», серыял: 11 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421123000 +0300" start="20140421120500 +0300">
+        <title lang="be">ПраСвет (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421130500 +0300" start="20140421123000 +0300">
+        <title lang="be">Два на два (тэледыскусія): Анатоль Івашчанка і Гэнік Лойка</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421134000 +0300" start="20140421130500 +0300">
+        <title lang="be">Зона «Свабоды» (аналітычная праграма). Погляд на падзеі тыдня вачыма журналістаў радыё
+            «Свабода».
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421141500 +0300" start="20140421134000 +0300">
+        <title lang="be">«Людскія справы» (аўтарская праграма Алеся Залеўскага)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421143000 +0300" start="20140421141500 +0300">
+        <title lang="be">Фітнес-шмітнес</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421152000 +0300" start="20140421143000 +0300">
+        <title lang="be">«Таямніцы Дамавіны Гасподняе» (Tajemnice Grobu Bożego), дак. фільм, рэж. Юзэф Каміль Бжастоўскі
+            (Józef Kamil Brzostowski), 2010 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421170500 +0300" start="20140421152000 +0300">
+        <title lang="be">«Анна Карэніна» (Leo Tolstoy’s Anna Karenina), драма, рэж. Бэрнард Роўз (Bernard Rose), 1997
+            г., ЗША
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421180000 +0300" start="20140421170500 +0300">
+        <title lang="be">«Жанчыны, часопісы і слёзы» (Kobiety, gazety i łzy), дак. фільм, рэж. Ян Сасіньскі (Jan
+            Sosiński), 2000 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421184500 +0300" start="20140421180000 +0300">
+        <title lang="be">«Mad Men. Утрапёныя», серыял: 11 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421190000 +0300" start="20140421184500 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Пінгвінік Пік-Пок»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421191000 +0300" start="20140421190000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421192000 +0300" start="20140421191000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд медыяў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421193000 +0300" start="20140421192000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421195000 +0300" start="20140421193000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421201000 +0300" start="20140421195000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Dэвайс</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421201500 +0300" start="20140421201000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд падзеяў культуры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421203500 +0300" start="20140421201500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421210000 +0300" start="20140421203500 +0300">
+        <title lang="be">Асабісты капітал (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421212500 +0300" start="20140421210000 +0300">
+        <title lang="be">Аб’ектыў (галоўнае выданне)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421214500 +0300" start="20140421212500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Размова дня</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421221000 +0300" start="20140421214500 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140421235500 +0300" start="20140421221000 +0300">
+        <title lang="be">«Анна Карэніна» (Leo Tolstoy’s Anna Karenina), драма, рэж. Бэрнард Роўз (Bernard Rose), 1997
+            г., ЗША
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422013000 +0300" start="20140421235500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423015500 +0300" start="20140422013000 +0300">
+        <title lang="be">Асабісты капітал (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424022000 +0300" start="20140423015500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425024000 +0300" start="20140424022000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425024000 +0300" start="20140425024000 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422083500 +0300" start="20140422070000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422085500 +0300" start="20140422083500 +0300">
+        <title lang="be">Асабісты капітал (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422092000 +0300" start="20140422085500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422094000 +0300" start="20140422092000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422101000 +0300" start="20140422094000 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422104000 +0300" start="20140422101000 +0300">
+        <title lang="be">Два на два (тэледыскусія): Анатоль Івашчанка і Гэнік Лойка</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422123000 +0300" start="20140422104000 +0300">
+        <title lang="be">«Ясмін» (Jasminum), маст. фільм, рэж. Ян Якуб Кольскі (Jan Jakub Kolski), 2006 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422140500 +0300" start="20140422123000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422142500 +0300" start="20140422140500 +0300">
+        <title lang="be">Асабісты капітал (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422145500 +0300" start="20140422142500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422151500 +0300" start="20140422145500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422154000 +0300" start="20140422151500 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422161000 +0300" start="20140422154000 +0300">
+        <title lang="be">Два на два (тэледыскусія): Анатоль Івашчанка і Гэнік Лойка</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422180000 +0300" start="20140422161000 +0300">
+        <title lang="be">«Ясмін» (Jasminum), маст. фільм, рэж. Ян Якуб Кольскі (Jan Jakub Kolski), 2006 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422185000 +0300" start="20140422180000 +0300">
+        <title lang="be">Дакументальная гадзіна: «Невядомае жыццё Ісуса» (Ukryte życie Jezusa), дак. фільм, рэж. Рафал
+            Тыхы (Rafał Tichy), 2009 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422190000 +0300" start="20140422185000 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Прыгоды Ціўкі»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422191000 +0300" start="20140422190000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422192000 +0300" start="20140422191000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд медыяў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422193000 +0300" start="20140422192000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422195000 +0300" start="20140422193000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422201000 +0300" start="20140422195000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Сальда (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422201500 +0300" start="20140422201000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд падзеяў культуры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422202500 +0300" start="20140422201500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422204000 +0300" start="20140422202500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Тэатр ваенных</title>
+        <desc lang="be">дзеянняў</desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422210000 +0300" start="20140422204000 +0300">
+        <title lang="be">Над Нёмнам (тэлечасопіс)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422212500 +0300" start="20140422210000 +0300">
+        <title lang="be">Аб’ектыў (галоўнае выданне)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422214500 +0300" start="20140422212500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Размова дня</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422221000 +0300" start="20140422214500 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+        <desc lang="be">Непланаваны гендарны прарыў унутры «Рэмаркі»: сярод трох, паводле Юлі Цімафеевай, найлепшых
+            празаічных твораў, з прэзентаваных на конкурс імя Гедройця, два – аўтарства кабет. Хто з беларускіх
+            пісьменніц заслугоўвае ўвагі і чаму? Ганна Хітрык выпускае беларускамоўны альбом, а Кацярына Аверкава
+            пераключаецца з драматычнага тэатр на пластычны. Акторка і рэжысёрка не спыняюцца на сваіх творчых пошуках.
+            Што знаходзім дзякуючы ім мы, гледачы? А госць у студыі «Рэмаркі» – выбітная мастачка Марта Шматава, якая ў
+            размове з Сяргеем Харэўскім крыху прачыняе таямніцы маўклівага мастацтва малявання, дзеліцца сваймі марамі,
+            крытыкаю і думкамі пра няпростае ХХІ стагоддзе.
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422230500 +0300" start="20140422221000 +0300">
+        <title lang="be">«Аповеды выходнага дня» (Opowieści weekendowe), цыкл маст. фільмаў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140422233500 +0300" start="20140422230500 +0300">
+        <title lang="be">«Людскія справы» (аўтарская праграма Алеся Залеўскага)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423011500 +0300" start="20140422233500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424013500 +0300" start="20140423011500 +0300">
+        <title lang="be">Над Нёмнам (тэлечасопіс)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425020000 +0300" start="20140424013500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426022000 +0300" start="20140425020000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426022000 +0300" start="20140426022000 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423083500 +0300" start="20140423070000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423085500 +0300" start="20140423083500 +0300">
+        <title lang="be">Над Нёмнам (тэлечасопіс)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423092000 +0300" start="20140423085500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423094000 +0300" start="20140423092000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423100500 +0300" start="20140423094000 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423103000 +0300" start="20140423100500 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423104000 +0300" start="20140423103000 +0300">
+        <title lang="be">Моўнік (лінгвістычная праграма): Сапернік ці супернік?</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423105500 +0300" start="20140423104000 +0300">
+        <title lang="be">Назад у будучыню (гістарычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423112500 +0300" start="20140423105500 +0300">
+        <title lang="be">«Людскія справы» (аўтарская праграма Алеся Залеўскага)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423122000 +0300" start="20140423112500 +0300">
+        <title lang="be">«Сенсацыі XX стагоддзя», серыял: «Таямніцы Ватыкану», дак. серыял</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423140000 +0300" start="20140423122000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423141500 +0300" start="20140423140000 +0300">
+        <title lang="be">Над Нёмнам (тэлечасопіс)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423144500 +0300" start="20140423141500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423150000 +0300" start="20140423144500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423153000 +0300" start="20140423150000 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423155500 +0300" start="20140423153000 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423160500 +0300" start="20140423155500 +0300">
+        <title lang="be">Моўнік (лінгвістычная праграма): Сапернік ці супернік?</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423161500 +0300" start="20140423160500 +0300">
+        <title lang="be">Назад у будучыню (гістарычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423165000 +0300" start="20140423161500 +0300">
+        <title lang="be">«Людскія справы» (аўтарская праграма Алеся Залеўскага)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423174500 +0300" start="20140423165000 +0300">
+        <title lang="be">«Сенсацыі XX стагоддзя», серыял: «Таямніцы Ватыкану», дак. серыял</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423175500 +0300" start="20140423174500 +0300">
+        <title lang="be">Уладзіслаў Сыракомля</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423185000 +0300" start="20140423175500 +0300">
+        <title lang="be">«Аповеды выходнага дня» (Opowieści weekendowe), цыкл маст. фільмаў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423190000 +0300" start="20140423185000 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Занатоўкі натураліста»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423191000 +0300" start="20140423190000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423192000 +0300" start="20140423191000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд медыяў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423193000 +0300" start="20140423192000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423195000 +0300" start="20140423193000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423201000 +0300" start="20140423195000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Сальда (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423201500 +0300" start="20140423201000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд падзеяў культуры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423203500 +0300" start="20140423201500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423210000 +0300" start="20140423203500 +0300">
+        <title lang="be">Маю права (юрыдычная праграма). Журналісты «Белсату» расследуюць злоўжыванні ды парушэнні
+            закону. Заўсёды ў інтарэсах грамадзянаў.
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423212500 +0300" start="20140423210000 +0300">
+        <title lang="be">Аб’ектыў (галоўнае выданне)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423214500 +0300" start="20140423212500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Размова дня</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423220500 +0300" start="20140423214500 +0300">
+        <title lang="be">54 % (публіцыстычная праграма): Права да веры</title>
+        <desc lang="be">У краіне, дзе пераважная бальшыня насельніцтва традыцыйна лучыць сябе з хрысціянскаю культураю,
+            выбар іншага шляху да Бога выклікае і здзіўленне, і непрыманне, і цікаўнасць. Як жывецца нашым жанчынам у
+            іншых культурах? Чаму яны змянілі царкву на мячэць або крышнаіцкую святыню? І ці розніца паміж намі і
+            сапраўды такая значная?
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423230500 +0300" start="20140423220500 +0300">
+        <title lang="be">«Дэфект», тэлесерыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140423233000 +0300" start="20140423230500 +0300">
+        <title lang="be">«З хронікі Аўшвіцу», дак. серыял: «Каханне»</title>
+        <desc lang="be">Каханне паміж Малі Цымэтбаўм і Эдвардам Галіньскім успыхнула ў Біркенаў ды там жа знайшло свой
+            трагічны вынік.
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424000000 +0300" start="20140423233000 +0300">
+        <title lang="be">Эксперт (сатырычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425013500 +0300" start="20140424000000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426015500 +0300" start="20140425013500 +0300">
+        <title lang="be">Маю права (юрыдычная праграма). Журналісты «Белсату» расследуюць злоўжыванні ды парушэнні
+            закону. Заўсёды ў інтарэсах грамадзянаў.
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427022500 +0300" start="20140426015500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140428024500 +0300" start="20140427022500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140428024500 +0300" start="20140428024500 +0300">
+        <title lang="be">54 % (публіцыстычная праграма): Права да веры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424083000 +0300" start="20140424070000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424085500 +0300" start="20140424083000 +0300">
+        <title lang="be">Маю права (юрыдычная праграма). Журналісты «Белсату» расследуюць злоўжыванні ды парушэнні
+            закону. Заўсёды ў інтарэсах грамадзянаў.
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424092000 +0300" start="20140424085500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424094000 +0300" start="20140424092000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424100000 +0300" start="20140424094000 +0300">
+        <title lang="be">54 % (публіцыстычная праграма): Права да веры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424102500 +0300" start="20140424100000 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424105500 +0300" start="20140424102500 +0300">
+        <title lang="be">Эксперт (сатырычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424115000 +0300" start="20140424105500 +0300">
+        <title lang="be">«Дэфект», тэлесерыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424122500 +0300" start="20140424115000 +0300">
+        <title lang="be">Невядомая Беларусь: «Сейбіт», дак. фільм, рэж. Юрый Каліна, 2014, Польшча</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424135500 +0300" start="20140424122500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424141500 +0300" start="20140424135500 +0300">
+        <title lang="be">Маю права (юрыдычная праграма). Журналісты «Белсату» расследуюць злоўжыванні ды парушэнні
+            закону. Заўсёды ў інтарэсах грамадзянаў.
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424144500 +0300" start="20140424141500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424150000 +0300" start="20140424144500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424152500 +0300" start="20140424150000 +0300">
+        <title lang="be">54 % (публіцыстычная праграма): Права да веры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424155000 +0300" start="20140424152500 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424162000 +0300" start="20140424155000 +0300">
+        <title lang="be">Эксперт (сатырычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424172000 +0300" start="20140424162000 +0300">
+        <title lang="be">«Дэфект», тэлесерыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424175000 +0300" start="20140424172000 +0300">
+        <title lang="be">Невядомая Беларусь: «Сейбіт», дак. фільм, рэж. Юрый Каліна, 2014 г., Польшча</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424184500 +0300" start="20140424175000 +0300">
+        <title lang="be">«Сага старадаўняй пушчы», дак. серыял</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424190000 +0300" start="20140424184500 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Аповеды таты Бабра»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424191000 +0300" start="20140424190000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424192000 +0300" start="20140424191000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд медыяў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424193000 +0300" start="20140424192000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424195000 +0300" start="20140424193000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424201000 +0300" start="20140424195000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Сальда (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424201500 +0300" start="20140424201000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд падзеяў культуры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424202500 +0300" start="20140424201500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424203000 +0300" start="20140424202500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Тэатр ваенных</title>
+        <desc lang="be">дзеянняў</desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424210000 +0300" start="20140424203000 +0300">
+        <title lang="be">Рэпартэр (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424212500 +0300" start="20140424210000 +0300">
+        <title lang="be">Аб’ектыў (галоўнае выданне)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424214500 +0300" start="20140424212500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Размова дня</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424221500 +0300" start="20140424214500 +0300">
+        <title lang="be">Два на два (тэледыскусія): Усевалад Сцебурака і Юрась Беленькі</title>
+        <desc lang="be">Намеснік старшыні КХП-БНФ Юрась Беленькі і літаратар Усевалад Сцебурака даводзяць, чаму слова
+            «нацыяналіст» гучыць добра. Чаму прапаганда сёння зноў спрытна выцягнула цэтлікі фашызму і бандэраўшчыны ў
+            дачыненні нацыянальна арыентаваных беларусаў. З чым даводзіцца штодня сутыкацца людзям, якім не абыякавы лёс
+            беларускае нацыі, мовы ды культуры і якія публічна выказваюць сваю пазіцыю? Што такое нацыяналізм
+            па-беларуску ды чым ён адрозніваецца ад нацыяналізму еўрапейскага і расейскага?
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140424231500 +0300" start="20140424221500 +0300">
+        <title lang="be">«Наша газета» (Our newspaper), дак. фільм, рэж. Элінэ Фліпсэ (Eline Flipse), 2010 г.,
+            Нідэрланды
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425000000 +0300" start="20140424231500 +0300">
+        <title lang="be">«Iнстынкт», дэтэктыўны серыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426013000 +0300" start="20140425000000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427015500 +0300" start="20140426013000 +0300">
+        <title lang="be">Рэпартэр (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140428022500 +0300" start="20140427015500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140429024500 +0300" start="20140428022500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140429024500 +0300" start="20140429024500 +0300">
+        <title lang="be">Два на два (тэледыскусія): Усевалад Сцебурака і Юрась Беленькі</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425083000 +0300" start="20140425070000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425085500 +0300" start="20140425083000 +0300">
+        <title lang="be">Рэпартэр (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425092000 +0300" start="20140425085500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425094000 +0300" start="20140425092000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425101500 +0300" start="20140425094000 +0300">
+        <title lang="be">Два на два (тэледыскусія): Усевалад Сцебурака і Юрась Беленькі</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425103500 +0300" start="20140425101500 +0300">
+        <title lang="be">Маю права (юрыдычная праграма). Журналісты «Белсату» расследуюць злоўжыванні ды парушэнні
+            закону. Заўсёды ў інтарэсах грамадзянаў.
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425112000 +0300" start="20140425103500 +0300">
+        <title lang="be">«Iнстынкт», дэтэктыўны серыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425122000 +0300" start="20140425112000 +0300">
+        <title lang="be">«Наша газета» (Our newspaper), дак. фільм, рэж. Элінэ Фліпсэ (Eline Flipse), 2010 г.,
+            Нідэрланды
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425135000 +0300" start="20140425122000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425141500 +0300" start="20140425135000 +0300">
+        <title lang="be">Рэпартэр (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425144000 +0300" start="20140425141500 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425150000 +0300" start="20140425144000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425153500 +0300" start="20140425150000 +0300">
+        <title lang="be">Два на два (тэледыскусія): Усевалад Сцебурака і Юрась Беленькі</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425155500 +0300" start="20140425153500 +0300">
+        <title lang="be">Маю права (юрыдычная праграма). Журналісты «Белсату» расследуюць злоўжыванні ды парушэнні
+            закону. Заўсёды ў інтарэсах грамадзянаў.
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425164000 +0300" start="20140425155500 +0300">
+        <title lang="be">«Iнстынкт», дэтэктыўны серыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425165000 +0300" start="20140425164000 +0300">
+        <title lang="be">Моўнік (лінгвістычная праграма): Сапернік ці супернік?</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425175500 +0300" start="20140425165000 +0300">
+        <title lang="be">«Наша газета» (Our newspaper), дак. фільм, рэж. Элінэ Фліпсэ (Eline Flipse), 2010 г.,
+            Нідэрланды
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425184500 +0300" start="20140425175500 +0300">
+        <title lang="be">«Ранча», серыял: 50 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425190000 +0300" start="20140425184500 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Аповеды таты Бабра»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425191000 +0300" start="20140425190000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425192000 +0300" start="20140425191000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд медыяў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425193000 +0300" start="20140425192000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425195000 +0300" start="20140425193000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Навіны</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425201000 +0300" start="20140425195000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Dэвайс</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425201500 +0300" start="20140425201000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Агляд падзеяў культуры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425203000 +0300" start="20140425201500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Гарачы каментар</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425210000 +0300" start="20140425203000 +0300">
+        <title lang="be">ПраСвет (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425212500 +0300" start="20140425210000 +0300">
+        <title lang="be">Аб’ектыў (галоўнае выданне)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425214500 +0300" start="20140425212500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок: Размова дня</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140425221500 +0300" start="20140425214500 +0300">
+        <title lang="be">Зоры не спяць (культурніцкая праграма)</title>
+        <desc lang="be">Людзей яднаюць агульныя каштоўнасці, упадабаныя заняткі, густы, успаміны, пратэсты. Паводле
+            сацыёлагаў, грамадства сёння складаецца з суполак, як соты з вузаў, а ўнутры суполак ідуць працэсы,
+            уласцівыя чалавеку XXI стагоддзя: мы робімся больш адкрытымі, адказнымі за сваё слова і погляды, а
+            адначасова – талерантнымі. Але ці ёсць нешта, на чым грунтуюцца ўсе гэтыя «соты»? Якія каштоўнасці,
+            перакананні ці вера спрацуюць у адказны момант і давядуць існаванне грамадзянскае супольнасці? Адказу на
+            гэтае пытанне ў Зорнай студыі шукаем з філосафам Вольгаю Шпарагаю.
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426001500 +0300" start="20140425221500 +0300">
+        <title lang="be">«Статысты» (Statyści), маст. фільм, рэж. Міхал Квеціньскі (Michał Kwieciński), 2006 г.,
+            Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427004000 +0300" start="20140426001500 +0300">
+        <title lang="be">«З хронікі Аўшвіцу», дак. серыял: «Каханне»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140428021500 +0300" start="20140427004000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140429024000 +0300" start="20140428021500 +0300">
+        <title lang="be">ПраСвет (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140430030500 +0300" start="20140429024000 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140431032500 +0300" start="20140430030500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140431032500 +0300" start="20140431032500 +0300">
+        <title lang="be">Зоры не спяць (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426083000 +0300" start="20140426070000 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426090000 +0300" start="20140426083000 +0300">
+        <title lang="be">ПраСвет (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426092500 +0300" start="20140426090000 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426094500 +0300" start="20140426092500 +0300">
+        <title lang="be">Інфармацыйна-публіцыстычны блок</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426101500 +0300" start="20140426094500 +0300">
+        <title lang="be">Зоры не спяць (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426104500 +0300" start="20140426101500 +0300">
+        <title lang="be">Казкі для дзетак: «Пінгвінік Пік-Пок», «Прыгоды Ціўкі», «Занатоўкі натураліста»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426111000 +0300" start="20140426104500 +0300">
+        <title lang="be">«Ажыятаж вакол Басі», серыял: 9 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426114500 +0300" start="20140426111000 +0300">
+        <title lang="be">Два на два (тэледыскусія): Усевалад Сцебурака і Юрась Беленькі</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426120500 +0300" start="20140426114500 +0300">
+        <title lang="be">Асабісты капітал (эканамічная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426123500 +0300" start="20140426120500 +0300">
+        <title lang="be">Відзьмо-невідзьмо (інфармацыйна-забаўляльны агляд)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426130500 +0300" start="20140426123500 +0300">
+        <title lang="be">Кулінарныя падарожжы Робэрта Макловіча</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426140000 +0300" start="20140426130500 +0300">
+        <title lang="be">«Аповеды выходнага дня» (Opowieści weekendowe), цыкл маст. фільмаў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426150500 +0300" start="20140426140000 +0300">
+        <title lang="be">«Чарнобыльскія званы» (Dzwony Czarnobyla), дак. фільм, рэж. Ярослаў Каменьскі (Jarosław
+            Kamieński), Курт Лянгбайн (Kurt Langbein) ды інш., 1996 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426155500 +0300" start="20140426150500 +0300">
+        <title lang="be">«Сага старадаўняй пушчы», дак. серыял</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426175000 +0300" start="20140426155500 +0300">
+        <title lang="be">«Статысты» (Statyści), маст. фільм, рэж. Міхал Квеціньскі (Michał Kwieciński), 2006 г.,
+            Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426180500 +0300" start="20140426175000 +0300">
+        <title lang="be">Беларусы ў Польшчы</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426183000 +0300" start="20140426180500 +0300">
+        <title lang="be">ПраСвет (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426185500 +0300" start="20140426183000 +0300">
+        <title lang="be">Фітнес-шмітнес</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426190500 +0300" start="20140426185500 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Прыгоды і паходы»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426192000 +0300" start="20140426190500 +0300">
+        <title lang="be">Моўнік (лінгвістычная праграма): Полацкае Евангелле</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426193000 +0300" start="20140426192000 +0300">
+        <title lang="be">Назад у будучыню (гістарычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426202000 +0300" start="20140426193000 +0300">
+        <title lang="be">«Mad Men. Утрапёныя», серыял: 12 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426210000 +0300" start="20140426202000 +0300">
+        <title lang="be">Зона «Свабоды» (аналітычная праграма). Погляд на падзеі тыдня вачыма журналістаў радыё
+            «Свабода».
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426211500 +0300" start="20140426210000 +0300">
+        <title lang="be">Аб’ектыў (галоўнае выданне)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426214500 +0300" start="20140426211500 +0300">
+        <title lang="be">Невядомая Беларусь: «Чарнобыль для Еўропы», дак. фільм, рэж. Сяргей Ісакаў, 2010 г., Беларусь
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140426235000 +0300" start="20140426214500 +0300">
+        <title lang="be">Суботні сеанс: «Шараговец Джэйн» (G.I. Jane), маст. фільм, рэж. Рыдлі Скот (Ridley Scott), 1995
+            г., ЗША
+        </title>
+        <desc lang="be">У галоўнай ролі – Дэмі Мур (Demi Moore).
+            Аналітык выведкі Джoрдан О’Ніл атрымлівае прапанову прайсці элітны курс рыхтавання байцоў выведкі – у межах
+            праграмы вырaўнoўвання магчымасцяў жанчын у войску. Праграма выклікае незадавальненне сярод вайскоўцаў, але
+            яе падтрымліваюць палітыкі. Жанчыне даводзіцца сутыкнуцца з перадузятым стаўленнем да сябе з боку як войска,
+            гэтак і вашынгтонскай адміністрацыі. Каб пераадолець усе цяжкасці, ёй трэба найперш перамагчы ўласныя
+            слабасці...
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427004000 +0300" start="20140426235000 +0300">
+        <title lang="be">«Жанчыны гары Арарат» (Les femmes du mont Ararat), дак. фільм, рэж. Эрўан Браян (Erwan Briand),
+            2004 г., Францыя
+        </title>
+        <desc lang="be">Фільм апавядае гісторыі жанчын Курдыстану, вымушаных узяць у рукі зброю. Аўтар паказвае іхную
+            штодзённасць, спрабуе высветліць прычыны, што змусілі кабет пайсці ў партызаны. Для большасці з іх галоўным
+            матывам была барацьба за сваю зямлю і годнасць. У змаганні за вызваленне Курдыстану ад туркаў менавіта
+            жанчыны станавіліся ахвярамі ў першую чаргу. Курдскія партызанкі мараць не толькі пра незалежнасць, але і
+            пра эмансіпацыю, адыход ад старых кансерватыўных традыцыяў, згодна з якімі жанчына – гэта тавар у руках
+            мужчыны.
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427004000 +0300" start="20140427004000 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427071500 +0300" start="20140427070000 +0300">
+        <title lang="be">Аб’ектыў</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427075000 +0300" start="20140427071500 +0300">
+        <title lang="be">Казкі для дзетак: «Аповеды таты Бабра», «Прыгоды і паходы»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427082000 +0300" start="20140427075000 +0300">
+        <title lang="be">«Таямніца Сагалі», серыял: 1 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427085500 +0300" start="20140427082000 +0300">
+        <title lang="be">Зона «Свабоды» (аналітычная праграма). Погляд на падзеі тыдня вачыма журналістаў радыё
+            «Свабода».
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427091000 +0300" start="20140427085500 +0300">
+        <title lang="be">Беларусы ў Польшчы</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427094000 +0300" start="20140427091000 +0300">
+        <title lang="be">Рэмарка (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427100000 +0300" start="20140427094000 +0300">
+        <title lang="be">54 % (публіцыстычная праграма): Права да веры</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427102500 +0300" start="20140427100000 +0300">
+        <title lang="be">Рэпартэр (інфармацыйна-публіцыстычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427105500 +0300" start="20140427102500 +0300">
+        <title lang="be">Невядомая Беларусь: «Чарнобыль для Еўропы», дак. фільм, рэж. Сяргей Ісакаў, 2010 г., Беларусь
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427113500 +0300" start="20140427105500 +0300">
+        <title lang="be">Казкі для дзетак: «Аповеды таты Бабра», «Прыгоды і паходы»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427120000 +0300" start="20140427113500 +0300">
+        <title lang="be">«Ажыятаж вакол Басі», серыял: 9 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427123000 +0300" start="20140427120000 +0300">
+        <title lang="be">«Таямніца Сагалі», серыял: 1 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427132500 +0300" start="20140427123000 +0300">
+        <title lang="be">«Жанчыны гары Арарат» (Les femmes du mont Ararat), дак. фільм, рэж. Эрўан Браян (Erwan Briand),
+            2004 г., Францыя
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427134500 +0300" start="20140427132500 +0300">
+        <title lang="be">Фітнес-шмітнес</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427144000 +0300" start="20140427134500 +0300">
+        <title lang="be">«Дэфект», тэлесерыял: 3 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427164500 +0300" start="20140427144000 +0300">
+        <title lang="be">«Шараговец Джэйн» (G.I. Jane), маст. фільм, рэж. Рыдлі Скот (Ridley Scott), 1995 г., ЗША
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427173000 +0300" start="20140427164500 +0300">
+        <title lang="be">«Mad Men. Утрапёныя», серыял: 12 серыя</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427182500 +0300" start="20140427173000 +0300">
+        <title lang="be">«Сага старадаўняй пушчы», дак. серыял</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427185500 +0300" start="20140427182500 +0300">
+        <title lang="be">Кулінарныя падарожжы Робэрта Макловіча</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427190500 +0300" start="20140427185500 +0300">
+        <title lang="be">Калыханка для самых маленькіх: «Вынаходлівы Дабрамір»</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427191500 +0300" start="20140427190500 +0300">
+        <title lang="be">Гісторыя пад знакам Пагоні (спазнаваўчая праграма): Валенцій Ваньковіч</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427200000 +0300" start="20140427191500 +0300">
+        <title lang="be">Форум (ток-шоу): Урокі Майдана. Адкуль бяруцца рэвалюцыі?</title>
+        <desc lang="be">На фоне таго, што адбываецца ў Кіеве, беларусы не могуць не задумвацца, які лёс напаткае іхную
+            краіну. І хаця аўтарытарны кіраўнік Беларусі заявіў: «Майданаў у нас не будзе!», ніхто не мае сумневу, што
+            перадумовы для гэтага ёсць. Пераканаўчыя дакументальныя матэрыялы, назапашаныя творчаю групаю «Форуму» цягам
+            апошніх гадоў, паказваюць: унутрыпалітычнае становішча ў нашай краіне радыкалізуецца – улада ўсё больш шалее
+            і адчувае сваю беспакаранасць, а колькасць простых людзей, што пацярпелі ад яе, няўмольна расце. Аднак на
+            гэтым аналогіі з украінскаю сітуацыяй канчаюцца. Галоўныя пытанні дыскусіі – якое спалучэнне аб’ектыўных і
+            суб’ектыўных фактараў прыводзіць да рэвалюцыяў ды як адкажуць беларусы на выклік часу? Гэтак жа, як
+            украінцы, ці неяк інакш?
+        </desc>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427203500 +0300" start="20140427200000 +0300">
+        <title lang="be">Эксперт (сатырычная праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427212500 +0300" start="20140427203500 +0300">
+        <title lang="be">Дакументальная гадзіна: «Ян Павал II і ягоны сябар» (Jan Paweł II i jego przyjaciel), дак.
+            фільм, рэж. Павэл Пітэра (Paweł Pitera), Януш Татаркевіч (Janusz Tatarkiewicz), 1999 г., Польшча
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427230500 +0300" start="20140427212500 +0300">
+        <title lang="be">Фільматэка майстроў: «Папросту разам» (Ensemble, c’est tout), драма, рэж. Клёд Бэры (Claude
+            Berri), 2007 г., Францыя
+        </title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427233500 +0300" start="20140427230500 +0300">
+        <title lang="be">Зоры не спяць (культурніцкая праграма)</title>
+    </programme>
+    <programme channel="eu.belsat" stop="20140427173500 +0300" start="20140427233500 +0300">
+        <title lang="be">Форум (ток-шоу): Урокі Майдану. Адкуль бяруцца рэвалюцыі?</title>
+    </programme>
+</tv>
