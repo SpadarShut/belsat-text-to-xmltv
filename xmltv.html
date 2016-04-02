@@ -253,6 +253,8 @@
             var m = date[3];
             var y = date[4];
 
+            day = day.replace(/(\d\d)–(\d\d)/mg,'$1-$2');
+
             // find all programs
             while ((prog = rxProg.exec(day)) !== null) {
                 var descr = '';
