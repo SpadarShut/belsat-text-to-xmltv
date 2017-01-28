@@ -47,6 +47,7 @@
             clear: both;
             border-radius: 3px;
             font-size: 18px;
+            cursor: pointer;
         }
 
         #dl:hover {
@@ -167,7 +168,7 @@
         <button class="btn" id="clear-source">Ачысціць тэкст</button>
     </div>
     <div class="header__p2">
-        <a href="" class="btn" download="belsat.xml" id="dl" target="_blank"> Спампаваць xml </a>
+        <a class="btn" download="belsat.xml" id="dl" target="_blank"> Спампаваць xml </a>
     </div>
 </div>
 <div class="view-main">
@@ -184,7 +185,7 @@
         var $preview = $('#preview');
         var $source = $('#source');
         var $autoscroll = $('#autoscroll');
-        var schedule = [];
+        var inputData = {};
 
         var escape = function(string) {
             var htmlEscapes = {
@@ -242,17 +243,21 @@
             return days;
         }
 
+        function parseRawDay(day) {
+          var date  = rxDate.exec(day);
+          return {
+            dw: date[1],
+            d: date[2],
+            m: date[3],
+            y: date[4],
+          }
+        }
+
         // extract programs from day
         function getPrograms(dayObj) {
             var progs = [];
-            var date  = rxDate.exec(dayObj.day);
+            var date  = parseRawDay(dayObj.day);
             var day = dayObj.progs;
-
-            var dw = date[1];
-            var d = date[2];
-            var m = date[3];
-            var y = date[4];
-
             day = day.replace(/(\d\d)–(\d\d)/mg,'$1-$2');
 
             // find all programs
@@ -271,7 +276,7 @@
                 }
                 progObj.title = escape(title);
                 progObj.src = escape(src);
-                progObj.start = { y:y, m:m, d:d, h:h, min:min, s:s, dw:dw };
+                progObj.start = { y:date.y, m:date.m, d:date.d, h:h, min:min, s:s, dw:date.dw };
 
                 if (descr) {
                     progObj.description = descr;
@@ -335,7 +340,7 @@
         }
 
         function makeFile(){
-            var xml = buildXMLTV(schedule);
+            var xml = buildXMLTV(inputData.schedule);
             var txt = xml[0].outerHTML;
             return 'data:text/xml,'+
                      encodeURIComponent('\uFEFF<?xml version="1.0" encoding="utf-8" ?>\n<!DOCTYPE tv SYSTEM "http://www.teleguide.info/xmltv.dtd">\n') +
@@ -362,7 +367,8 @@
             return $prog;
         }
 
-        function buildPreview (schedule){
+        function buildPreview (data){
+            var schedule = data.schedule;
             var yesterday = schedule[0].start.d;
             var output = '';
             $.each(schedule, function(i, prog){
@@ -422,6 +428,32 @@
             $els.on( 'scroll', sync);
         }
 
+        function getDlFileName() {
+          var days = inputData.days;
+          if (!days) {
+            return 'belsat.xml';
+          }
+          else {
+            var firstDay = parseRawDay(days[0].day);
+            var lastDay = parseRawDay(days[days.length-1].day);
+            return `belsat_${firstDay.y}.${firstDay.m}.${firstDay.d}-${lastDay.y}.${lastDay.m}.${lastDay.d}.xml`;
+          }
+        }
+
+        function parseInput(text){
+          var val = {
+            rawInput: text,
+            days: getDays(text),
+            schedule: [],
+          };
+          $.each(val.days, function(i, day){
+            $.each(getPrograms(day), function(i, el){
+              val.schedule.push(el);
+            })
+          });
+          return val;
+        }
+
         $('#clear-source').on('click', function(){
             $source.val('').trigger('input')
         });
@@ -431,25 +463,17 @@
                 updateView('');
                 return;
             }
-            var days = getDays(this.value);
 
-            schedule = []; //reset
-            $.each(days, function(i, day){
-                $.each(getPrograms(day), function(i, el){
-                    schedule.push(el);
-                })
-            });
-
-            var schedulePreview = buildPreview(schedule);
-
+            inputData = parseInput(this.value);
             syncScroll($('#preview, #source'));
-            updateView( schedulePreview );
+            updateView(buildPreview(inputData));
         });
 
         $('#dl').on('click', function(e){
-            $(this).attr('href', makeFile());
+            $(this)
+              .attr('download', getDlFileName())
+              .attr('href', makeFile());
         });
-
 
         $(function () {
             if (location.search.indexOf('sample') > -1) {
