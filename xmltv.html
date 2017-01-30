@@ -436,7 +436,7 @@
           else {
             var firstDay = parseRawDay(days[0].day);
             var lastDay = parseRawDay(days[days.length-1].day);
-            return `belsat_${firstDay.y}.${firstDay.m}.${firstDay.d}-${lastDay.y}.${lastDay.m}.${lastDay.d}.xml`;
+            return `belsat_${firstDay.d}.${firstDay.m}-${lastDay.d}.${lastDay.m}.xml`;
           }
         }
 
